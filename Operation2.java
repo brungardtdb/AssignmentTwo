@@ -5,10 +5,6 @@ Program that calculates the date that you will retire
 based on user input.
 ********************************/
 
-/*Note to the instructor: Sorry if this all seems a bit much, I've been programming
-in C# for almost a year and I just wanted to see how Java was similar and different from C#.
-Might have gotten a little carried away.*/
-
 // import scanner method from utility
 import java.util.Scanner;
 
